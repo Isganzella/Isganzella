@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isganzella
 - 👀 I’m interested in ... Programação
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python - Java
 - 💞️ I’m looking to collaborate on ... qualquer projeto
 - 📫 How to reach me ... misganzella@gmail.com - phone - (49) 9982851992
 
