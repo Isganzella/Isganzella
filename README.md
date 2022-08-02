@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isganzella
 - 👀 I’m interested in ... Program
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... Java Script - Node Js
 - 💞️ I’m looking to collaborate on ... any project
 - 📫 How to reach me ... misganzella@gmail.com - phone - (49) 9982851992
 
